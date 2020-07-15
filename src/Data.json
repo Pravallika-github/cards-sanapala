@@ -1,0 +1,26 @@
+{
+    "profiles":[
+        {
+        "basic":{
+            "name":"S.Pravallika",
+            "phone":9090906542,
+            "email":"loveyouva@gmail.com",
+            "roll":"183J10543",
+            "add":"Visakhapatnam",
+            "id":"id1",
+            "img":"./data/pra1.jpg"
+ 
+        }
+    },
+       {
+        "basic":{
+            "name":"s.Soumya",
+            "phone":9823809876,
+            "email":"soumya23@gmail.com",
+            "roll":"183j1a0541",
+            "add":"Visakhapatnam",
+            "id":"id2",
+            "img":"./data/pra2.jpg"
+        }
+    }
+] }
